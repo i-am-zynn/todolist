@@ -50,7 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "C:\\Users\\noalx\\Desktop\\workspace\\todolist\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1780519811303</updated>
       <workItem from="1780519813682" duration="1974000" />
-      <workItem from="1780866817512" duration="1009000" />
+      <workItem from="1780866817512" duration="1341000" />
     </task>
     <servers />
   </component>
